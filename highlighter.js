@@ -1,3 +1,5 @@
+// Just initializer
+
 document.addEventListener('DOMContentLoaded', (e) => {
 	const searchBTN = document.querySelector('#search');
 	const searchValue = document.querySelector('#phrase');
